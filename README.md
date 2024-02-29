@@ -1,5 +1,5 @@
 <b>Healthify</b>
-Hospital Management System
+<b> Hospital Management System<b> 
 This Hospital Management System is a comprehensive web-based solution designed to streamline and optimize various administrative and operational tasks within a healthcare facility. Developed using HTML, CSS, JavaScript, PHP, MySQL, and XAMPP, this system offers a user-friendly interface for managing patients, doctors, appointments, billing, and more.
 
 Features
@@ -25,5 +25,5 @@ Features
 4. Configure the database connection in the PHP files.
 5. Launch the application through a web browser.
 
-Author 
-Shubham Singh
+<b>Author 
+Shubham Singh</b>
