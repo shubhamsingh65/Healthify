@@ -2,12 +2,12 @@
 <br><b> Hospital Management System</b> 
 This Hospital Management System is a comprehensive web-based solution designed to streamline and optimize various administrative and operational tasks within a healthcare facility. Developed using HTML, CSS, JavaScript, PHP, MySQL, and XAMPP, this system offers a user-friendly interface for managing patients, doctors, appointments, billing, and more.
 
-Features
+**Features**
+- **Admin**: Admin can view the Patients, Doctors, Appointments and New queries. Admin can also change his/her own password.
 - **Patient Management**: Efficiently manage patient records, including registration, admission, discharge, and medical history.
 - **Doctor Management**: Maintain a database of doctors with details such as specialization, availability, and contact information.
 - **Appointment Scheduling**: Schedule and manage patient appointments with doctors, providing flexibility and convenience for both patients and staff.
 - **Billing and Invoicing**: Generate and track invoices for medical services rendered, ensuring accurate and timely billing.
-- **Pharmacy Management**: Keep track of medication inventory, prescriptions, and dispensing to patients.
 - **Reports and Analytics**: Generate various reports and analytics to analyze hospital performance, patient demographics, revenue, etc.
 - **User Authentication and Authorization**: Secure access control system to ensure only authorized personnel can access sensitive information.
 - **Responsive Design**: Responsive web design ensures the system is accessible and functional across devices of all sizes.
